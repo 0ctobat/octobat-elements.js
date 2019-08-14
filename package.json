@@ -1,0 +1,28 @@
+{
+  "name": "octobat-elements.js",
+  "version": "0.0.1",
+  "description": "octobat-elements.js lib. Payment form handler, for automatic tax calculation at checkout, and SCA-compliance",
+  "main": "dist/octobat-elements.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0ctobat/octobat-elements.js.git"
+  },
+  "keywords": [
+    "checkout",
+    "sca",
+    "psd2",
+    "tax",
+    "calculation",
+    "vat",
+    "vatmoss",
+    "octobat",
+    "stripe",
+    "gocardless"
+  ],
+  "author": "Octobat SAS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0ctobat/octobat-elements.js/issues"
+  },
+  "homepage": "https://github.com/0ctobat/octobat-elements.js#readme",
+}
